@@ -1,6 +1,7 @@
 # Form-Validation
 
 # Hello, the goal of this project is to validate a form and make sure bots won't get their electronic hands on it
+# Uses JS, HTML and external links
 
 <div class="error_box inactive"></div>
 
